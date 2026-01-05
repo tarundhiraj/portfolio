@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Tarun Dhiraj</title>
+    <link>http://localhost:1313/en/page/</link>
+    <description>Recent content in Pages on Tarun Dhiraj</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/en/page/about/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/page/about/</guid>
+      <description>&lt;p&gt;An Air Force brat, born in Rajasthan and brought up across multiple cities in India, I developed an early fascination with computers after first hearing about them at the age of five. That curiosity gradually turned into a career in software engineering.&lt;/p&gt;&#xA;&lt;p&gt;I am currently a Senior Software Engineer at eBay, where I work on building and maintaining scalable, high-quality systems. My core strengths lie in backend development, system design, and writing clean, maintainable code, with a growing interest in frontend and user-centric engineering. I value structure, clarity, and engineering discipline, and I hold a strong bias toward quality and long-term system health.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
