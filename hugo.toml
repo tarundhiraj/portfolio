@@ -1,4 +1,4 @@
-baseurl = "https://tarundhiraj.com"
+baseURL = "https://tarundhiraj.com"
 metaDataFormat = "yaml"
 title = "Tarun Dhiraj"
 theme = "blist"
