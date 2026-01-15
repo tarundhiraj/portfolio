@@ -6,8 +6,15 @@
     <description>Recent content on Tarun Dhiraj</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“See? I Knew It!” — How Confirmation Bias Hurts Families</title>
+      <link>http://localhost:1313/en/blog/bias-affecting-your-family-dynamics/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/bias-affecting-your-family-dynamics/</guid>
+      <description>&lt;h2 id=&#34;confirmation-bias&#34;&gt;Confirmation Bias&lt;/h2&gt;&#xA;&lt;p&gt;What is confirmation bias really? Let’s do a small experiment.&lt;/p&gt;&#xA;&lt;p&gt;Take a moment and start thinking about a red car. Really think about it. In the next few minutes, you’ll suddenly start noticing red cars around you. If you take your bike out or go for a short drive in your neighborhood, it will feel like there are way more red cars than usual. The cars were always there. Your mind just started noticing them. This, my friend, is confirmation bias in action.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Unlocking the Potential of FastAPI Sub-Applications for API Version Management</title>
       <link>http://localhost:1313/en/blog/python-sub-applications/</link>

@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Tarun Dhiraj</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“See? I Knew It!” — How Confirmation Bias Hurts Families</title>
+      <link>http://localhost:1313/en/blog/bias-affecting-your-family-dynamics/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/bias-affecting-your-family-dynamics/</guid>
+      <description>&lt;p&gt;FastAPI is one of the fastest-growing Python frameworks for writing APIs. It is not only easier to use, but it also supports various features like automatic request/response validation, support for asynchronous programming using async/await syntax, and comes with a tool-kit approach so that you don’t have to create everything from scratch.&lt;/p&gt;&#xA;&lt;p&gt;But just like Superman, even FastAPI has its own Kryptonite. Having a small community of developers means a lack of proper documentation or tips on utilizing its advanced features to the fullest. In this post, I will try to explain one of such advanced features supported by FastAPI: Sub-Applications, and how we can use it to create and manage different versions of APIs.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Unlocking the Potential of FastAPI Sub-Applications for API Version Management</title>
       <link>http://localhost:1313/en/blog/python-sub-applications/</link>
